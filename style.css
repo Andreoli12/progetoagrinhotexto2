@@ -4,7 +4,7 @@
   }
   
   .cabecalho{
-    background-color: #64cd64;
+    background-color: #e56211;
     color: #ffffff;
     display: flex;
     justify-content: space-around;
@@ -20,11 +20,11 @@
   }
   
   .profissao-nome {
-    color: #3b60ac;
+    color: #ffffff;
   }
 
   .descricao-profissao {
-    background-image: linear-gradient(#64cd64, #ffffff);
+    background-image: linear-gradient(#e56211, #ffffff);
     display: flex;
     justify-content: center;
     align-items: center;
